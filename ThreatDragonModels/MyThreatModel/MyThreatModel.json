@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "MyThreatModel",
+    "owner": "Markus",
+    "description": "System is doing something"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Markus"
+  }
+}
