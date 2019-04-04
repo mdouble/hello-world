@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "My First Threat Model",
+    "owner": "Markus",
+    "description": "Just some toy model to learn about the tool."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Markus"
+  }
+}
